@@ -35,6 +35,11 @@
   background-color: #cd9042;
 }
 
+.header_link{
+  color: white;
+  text-decoration: none;
+}
+
 .header_optionOne{
   font-size: 10px;
 }
@@ -48,7 +53,7 @@
 .header_optionBasket{
   display: flex;
   align-items: center;
-  color: white;
+  
 }
 
 .header_basketCount{
@@ -65,6 +70,6 @@
   flex-direction: column;
   margin-left: 10px;
   margin-right: 10px;
-  color: white;
+ 
 }
 
